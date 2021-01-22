@@ -1,7 +1,7 @@
 # Personal_Projects
-# Repository showcasing some of the projects done during my masters
+## Repository showcasing some of the projects done during my masters
 
-# Machine Learning:
-# Predicting the number of bike users based on the given weather conditions.
+### Machine Learning:
+### Predicting the number of bike users based on the given weather conditions.
 
-# Natural Language Processing:
+### Natural Language Processing:
